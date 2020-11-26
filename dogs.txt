@@ -1,0 +1,4 @@
+Breed             Price
+----------
+Labrador          6000
+German            7000
