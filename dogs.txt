@@ -3,3 +3,4 @@ Breed             Price
 Labrador          6000
 German            7000
 Chihuahua         4000
+Black&White       5000
